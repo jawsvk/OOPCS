@@ -1,0 +1,7 @@
+C:\Users\weinchester\source\repos\OOCPS Day 3\OOCPS Day 3\bin\Debug\OOCPS Day 3.exe.config
+C:\Users\weinchester\source\repos\OOCPS Day 3\OOCPS Day 3\bin\Debug\OOCPS Day 3.exe
+C:\Users\weinchester\source\repos\OOCPS Day 3\OOCPS Day 3\bin\Debug\OOCPS Day 3.pdb
+C:\Users\weinchester\source\repos\OOCPS Day 3\OOCPS Day 3\obj\Debug\Workshop 4.csprojResolveAssemblyReference.cache
+C:\Users\weinchester\source\repos\OOCPS Day 3\OOCPS Day 3\obj\Debug\Workshop 4.csproj.CoreCompileInputs.cache
+C:\Users\weinchester\source\repos\OOCPS Day 3\OOCPS Day 3\obj\Debug\OOCPS Day 3.exe
+C:\Users\weinchester\source\repos\OOCPS Day 3\OOCPS Day 3\obj\Debug\OOCPS Day 3.pdb
