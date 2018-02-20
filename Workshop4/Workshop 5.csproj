@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{07A21F5C-4E04-4777-81B3-15CAE8107638}</ProjectGuid>
+    <ProjectGuid>{CCF7FAEA-7F87-4005-AA92-04231FCCBB45}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OOCPS_Day_4</RootNamespace>
-    <AssemblyName>OOCPS Day 4</AssemblyName>
+    <RootNamespace>Workshop4</RootNamespace>
+    <AssemblyName>Workshop4</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>OOCPS_Day_4.MainClass</StartupObject>
+    <StartupObject>OOCPS_Day_4.BankTest3</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -45,8 +45,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="BankAccount3.cs" />
+    <Compile Include="BankBranch.cs" />
+    <Compile Include="BankTest3.cs" />
+    <Compile Include="Box.cs" />
+    <Compile Include="Customer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rationalv2.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
