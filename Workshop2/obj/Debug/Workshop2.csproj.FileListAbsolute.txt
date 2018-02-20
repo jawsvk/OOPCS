@@ -1,0 +1,8 @@
+C:\Users\weinchester\source\repos\OOPCS Day 1\Workshop2\bin\Debug\Workshop2.exe.config
+C:\Users\weinchester\source\repos\OOPCS Day 1\Workshop2\bin\Debug\Workshop2.exe
+C:\Users\weinchester\source\repos\OOPCS Day 1\Workshop2\bin\Debug\Workshop2.pdb
+C:\Users\weinchester\source\repos\OOPCS Day 1\Workshop2\bin\Debug\ISSLIB.dll
+C:\Users\weinchester\source\repos\OOPCS Day 1\Workshop2\obj\Debug\Workshop2.csprojResolveAssemblyReference.cache
+C:\Users\weinchester\source\repos\OOPCS Day 1\Workshop2\obj\Debug\Workshop2.csproj.CoreCompileInputs.cache
+C:\Users\weinchester\source\repos\OOPCS Day 1\Workshop2\obj\Debug\Workshop2.exe
+C:\Users\weinchester\source\repos\OOPCS Day 1\Workshop2\obj\Debug\Workshop2.pdb

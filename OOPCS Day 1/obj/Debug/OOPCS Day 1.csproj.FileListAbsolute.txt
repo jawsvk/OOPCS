@@ -1,0 +1,8 @@
+c:\users\weinchester\source\repos\OOPCS Day 1\OOPCS Day 1\obj\Debug\OOPCS Day 1.csproj.CoreCompileInputs.cache
+c:\users\weinchester\source\repos\OOPCS Day 1\OOPCS Day 1\bin\Debug\OOPCS Day 1.exe.config
+c:\users\weinchester\source\repos\OOPCS Day 1\OOPCS Day 1\bin\Debug\OOPCS Day 1.exe
+c:\users\weinchester\source\repos\OOPCS Day 1\OOPCS Day 1\bin\Debug\OOPCS Day 1.pdb
+c:\users\weinchester\source\repos\OOPCS Day 1\OOPCS Day 1\bin\Debug\ISSLIB.dll
+c:\users\weinchester\source\repos\OOPCS Day 1\OOPCS Day 1\obj\Debug\OOPCS Day 1.exe
+c:\users\weinchester\source\repos\OOPCS Day 1\OOPCS Day 1\obj\Debug\OOPCS Day 1.pdb
+C:\Users\weinchester\source\repos\OOPCS Day 1\OOPCS Day 1\obj\Debug\OOPCS Day 1.csprojResolveAssemblyReference.cache
